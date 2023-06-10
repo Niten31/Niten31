@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niten
-- 👀 I’m interested in exploring new technoligies
+- 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning Data Analyitcs
 - 📫 How to reach me - nitenkadel1998@gmail.com
 
