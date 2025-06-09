@@ -1,4 +1,4 @@
-# 🧠 Smart Inventory Insights: ETL Project for Business Growth
+# 🧠 Inventory Optimization : ETL Project for Business Growth
 
 ## 🚀 Overview
 This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline using:
